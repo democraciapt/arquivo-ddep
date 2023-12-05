@@ -14,6 +14,8 @@ Todas as edições são identificadas com o seguinte sistema: `DDEP-NNN(AAAA-MM)
 
 A nossa primeira edição é, portanto: `DDEP-001(2021-01).pdf` (ler como "nº1, de janeiro de 2021")
 
+**NOTA:** Nem todas as edições estão atualizadas para esta numeração, tendo ainda apenas os dígitos do número da edição.
+
 ## Dimensão dos ficheiros
 
 Todos os ficheiros estão abaixo de 100MB.
